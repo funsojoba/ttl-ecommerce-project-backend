@@ -1,0 +1,25 @@
+{
+  "name": "ttl-ecommerce-project-backend",
+  "version": "1.0.0",
+  "description": "First Node class November 30",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funsojoba/ttl-ecommerce-project-backend.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Funso Joba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/funsojoba/ttl-ecommerce-project-backend/issues"
+  },
+  "homepage": "https://github.com/funsojoba/ttl-ecommerce-project-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
